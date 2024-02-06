@@ -15,7 +15,6 @@ This is my portfolio website built with JavaScript.
 ![mobile-1](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/55998e66-7178-4a18-8706-fb2988f36d16)
 ![mobile-2](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/29104217-e17d-4c06-8ffa-3704818ac670)
 ![mobile-3](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/a645fd5d-f20c-4536-90f5-d0723bc9a35e)
-![mobile-4](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/20a1b34c-7df6-45b2-a6ad-9633250cb590)
 
 
 ## Technologies Used
