@@ -12,6 +12,7 @@ This is my portfolio website built with JavaScript.
 - **Fast Loading:** Built with Vite, the website loads quickly and delivers a seamless user experience.
 - **Easy Customization:** Easily customize the content and styles to fit your personal brand.
   
+  
 ![mobile-1](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/55998e66-7178-4a18-8706-fb2988f36d16)
 ![mobile-2](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/29104217-e17d-4c06-8ffa-3704818ac670)
 ![mobile-3](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/a645fd5d-f20c-4536-90f5-d0723bc9a35e)
@@ -19,6 +20,7 @@ This is my portfolio website built with JavaScript.
 ![mobile-7](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/70ee4641-90ac-40d7-a205-b485ffe2a362)
 ![mobile-5](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/4d1e6533-070a-46bb-8be0-4e44273c958a)
 ![mobile-6](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/f72a7263-5e0a-43c2-b8ad-f1fdf099b859)
+
 
 
 ## Technologies Used
