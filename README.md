@@ -23,6 +23,9 @@ This is my portfolio website built with JavaScript.
 - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white): The latest version of Cascading Style Sheets with modern features.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white): The programming language used for adding interactivity to the website.
 
+![mobile-5](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/4d1e6533-070a-46bb-8be0-4e44273c958a)
+![mobile-7](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/70ee4641-90ac-40d7-a205-b485ffe2a362)
+![mobile-6](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/f72a7263-5e0a-43c2-b8ad-f1fdf099b859)
 
 ## Deployment
 
