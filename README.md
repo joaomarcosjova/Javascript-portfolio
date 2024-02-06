@@ -1,6 +1,6 @@
 # Portfolio Website | https://marcosjova.netlify.app
 
-![image](laptop-preview.png)
+![laptop-preview](https://github.com/joaomarcosjova/Javascript-portfolio/assets/89745621/12c657aa-7133-4214-b94d-b1f111c13f4d)
 
 This is my portfolio website built with JavaScript.
 
